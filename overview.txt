@@ -1,6 +1,6 @@
 Lernübersicht Sommersemester 2025
 
-#1   |UE| Einführung in die Wirtschaftsinformatik       --> 
+#1   |UE| Einführung in die Wirtschaftsinformatik       --> eigentlich nichts
 #2   |VL| Einführung in die Wirtschaftsinformatik       --> 
 #3   |UE| Einführung in die Softwareentwicklung         -->
 #4   |VL| Einführung in die Softwareentwicklung         -->
