@@ -1,1 +1,10 @@
-"h„„„" -
+#1   |UE| Einführung in die Wirtschaftsinformatik       --> 
+#2   |VL| Einführung in die Wirtschaftsinformatik       --> 
+#3   |UE| Einführung in die Softwareentwicklung         -->
+#4   |VL| Einführung in die Softwareentwicklung         -->
+#5   |UE| Formale Grundlagen der Wirtschaftsinformatik  -->
+#6   |VL| Formale Grundlagen der Wirtschaftsinformatik  -->
+#7   |VO| Betriebssysteme                               -->
+#8   |KS| Kommunikative Fertigkeiten Englisch B2        -->
+#9   |KS| Grundlagen der Betriebswirtschaftslehre       -->
+#10  |KS| Grundlagen des integrierten Managements       -->
