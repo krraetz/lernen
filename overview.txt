@@ -1,7 +1,9 @@
-#1   |UE| Einführung in die Wirtschaftsinformatik       --> 
-#2   |VL| Einführung in die Wirtschaftsinformatik       --> 
-#3   |UE| Einführung in die Softwareentwicklung         -->
-#4   |VL| Einführung in die Softwareentwicklung         -->
+LernÃ¼bersicht Sommersemester 2025
+
+#1   |UE| EinfÃ¼hrung in die Wirtschaftsinformatik       --> 
+#2   |VL| EinfÃ¼hrung in die Wirtschaftsinformatik       --> 
+#3   |UE| EinfÃ¼hrung in die Softwareentwicklung         -->
+#4   |VL| EinfÃ¼hrung in die Softwareentwicklung         -->
 #5   |UE| Formale Grundlagen der Wirtschaftsinformatik  -->
 #6   |VL| Formale Grundlagen der Wirtschaftsinformatik  -->
 #7   |VO| Betriebssysteme                               -->
