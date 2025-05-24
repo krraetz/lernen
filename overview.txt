@@ -1,12 +1,12 @@
 Lernübersicht Sommersemester 2025
 
-#1   |UE| Einführung in die Wirtschaftsinformatik       --> eigentlich nichts
-#2   |VL| Einführung in die Wirtschaftsinformatik       --> 
-#3   |UE| Einführung in die Softwareentwicklung         -->
-#4   |VL| Einführung in die Softwareentwicklung         -->
-#5   |UE| Formale Grundlagen der Wirtschaftsinformatik  -->
-#6   |VL| Formale Grundlagen der Wirtschaftsinformatik  -->
-#7   |VO| Betriebssysteme                               -->
-#8   |KS| Kommunikative Fertigkeiten Englisch B2        -->
-#9   |KS| Grundlagen der Betriebswirtschaftslehre       -->
-#10  |KS| Grundlagen des integrierten Managements       -->
+#1  [ECTS:3  ]   |UE| Einführung in die Wirtschaftsinformatik       --> eigentlich nichts, Arbeit fertig machen
+#2  [ECTS:3  ]   |VL| Einführung in die Wirtschaftsinformatik       --> viel, verdammt viel 
+#3  [ECTS:3  ]   |UE| Einführung in die Softwareentwicklung         --> Hausübungen erledigen
+#4  [ECTS:3  ]   |VL| Einführung in die Softwareentwicklung         --> Lernen für letzten Test!
+#5  [ECTS:1.5]   |UE| Formale Grundlagen der Wirtschaftsinformatik  --> HÜ machen
+#6  [ECTS:4.5]   |VL| Formale Grundlagen der Wirtschaftsinformatik  --> Lernen, Lernen, Lernen, Prüfung ende Juni
+#7  [ECTS:3  ]   |VO| Betriebssysteme                               --> Hoffnungslos
+#8  [ECTS:3  ]   |KS| Kommunikative Fertigkeiten Englisch B2        --> Präsentation und ok'en Test, is machbar
+#9  [ECTS:3  ]   |KS| Grundlagen der Betriebswirtschaftslehre       --> Husslen (peinlich)
+#10 [ECTS:3  ]   |KS| Grundlagen des integrierten Managements       --> keinen Dübel, angeblich leicht?, Podacasts anhören
